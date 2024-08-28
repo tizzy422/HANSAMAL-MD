@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Imalka-MD&5fMfcFtS"
     },
     "MODE": {
       "description": "mode public or self",
